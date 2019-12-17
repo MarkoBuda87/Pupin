@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #9900FF;
+	font-family: Tahoma, Arial, sans-serif;
+	font-size: 14px;
+}
+#nav {
+	color: #FFFFFF;
+	margin: 0 0 15px;
+	float: left;
+	padding: 15px;
+}
+#main {
+	width: 550px;
+	height: 500px;
+	padding: 10px;
+	float: left;
+	background: #CCCCCC;
+	font-size: 18px;
+	font-family: Tahoma, Arial, sans-serif;
+	text-align: center;
+}
+#sidebar {
+	width: 380px;
+	height: 500px;
+	float: left;
+	padding: 20px 3px 0px 10px;
+	background: #CCCCCC;
+	text-align: center;
+}
+#main2 {
+	width: 550px;
+	height: 500px;
+	padding: 10px;
+	float: left;
+	background: #CCCCCC;
+	font-size: 16px;
+	font-family: Tahoma, Arial, sans-serif;
+	text-align: center;
+}
+#main3 {
+	width: 900px;
+	height: auto;
+	padding: 10px;
+	float: left;
+	font-size: 16px;
+	font-family: Tahoma, Arial, sans-serif;
+	text-align: center;
+}
+#bottom {
+	font-size: 14px;
+	font-family: Tahoma, Arial, sans-serif;
+	text-align: center;
+	padding: 5px 0px 10px 200px;
+}
